@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Arif+%F0%9F%91%8B;Software+Engineer;Full-Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Hakim+%F0%9F%91%8B;Software+Engineer;Full-Stack+Dev" alt="Typing SVG" />
 
   <p align="center">
     <b>Passionate about crafting clean, scalable, and modern digital experiences.</b>
