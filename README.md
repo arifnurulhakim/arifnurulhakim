@@ -62,7 +62,7 @@ frameworks: [React, Inertia.js, Astro, Laravel]
 
 <div align="center">
   <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" width="49%" alt="Arif's GitHub Stats" />
-  <img src="https://github.xowlsmith.com/api/top-langs?username=arifnurulhakim&theme=synthwave&hide_border=true&exclude_repo=sim-lpu-yii&langs_count=20" width="49%" alt="Top Languages" />
+  <img src="https://github.xowlsmith.com/api/top-langs?username=arifnurulhakim&theme=synthwave&hide_border=true&exclude_repo=sim-lpu-yii&langs_count=8" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
