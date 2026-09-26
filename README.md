@@ -65,7 +65,8 @@ frameworks: [NestJS, Astro, React, Laravel]
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=arifnurulhakim&theme=crt&pixelate_avatar=true" alt="Pixel GitHub Stats" />
+  <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Arif's GitHub Stats" />
+  <img src="https://github.xowlsmith.com/api/top-langs?username=arifnurulhakim&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
