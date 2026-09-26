@@ -65,8 +65,8 @@ frameworks: [NestJS, Astro, React, Laravel]
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifnurulhakim&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Arif's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifnurulhakim&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Arif's GitHub Stats" />
+  <img src="https://github.xowlsmith.com/api/top-langs?username=arifnurulhakim&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
