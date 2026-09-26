@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Arif+Nurul+Hakim+👋;Software+Engineer+%7C+Full-Stack+Dev;Building+robust+web+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Arif+Nurul+Hakim+👋;Software+Engineer+%7C+Full-Stack+Dev;Building+robust+web+applications." alt="Typing SVG" />
 
   <p align="center">
     <b>Passionate about crafting clean, scalable, and modern digital experiences.</b>
@@ -70,7 +70,7 @@ frameworks: [NestJS, Astro, React, Laravel]
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifnurulhakim&theme=tokyonight&hide_border=true" width="99%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arifnurulhakim&theme=tokyonight&hide_border=true" width="99%" alt="GitHub Streak" />
 </div>
 
 ---
