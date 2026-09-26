@@ -1,13 +1,12 @@
 <div align="center">
 
   <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Hakim+%F0%9F%91%8B;Software+Engineer;Full-Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=680&height=60&lines=Hi+there%2C+I'm+Arif;Full-Stack+Engineer;Backend+Laravel%2FGo" alt="Typing SVG" />
 
   <p align="center">
-    <b>Passionate about crafting clean, scalable, and modern digital experiences.</b>
+    <b>Building Merlin, a multitenant commerce ERP, and the studio around it.</b>
   </p>
 
-  <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/github/followers/arifnurulhakim?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
     <img src="https://img.shields.io/badge/Open_To-Collaboration-10b981?style=flat-square" alt="Status" />
@@ -17,26 +16,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```yaml
 name: Muhammad Arif Nurul Hakim
-role: Software Engineer / Full-Stack Developer
-focus: Modern Web Apps, Backend Architecture, & Performance
+role: Full-Stack Engineer
+focus: Backend Laravel/Go, Frontend React/TypeScript, API Integration & Dashboard Analytics
 languages: [TypeScript, JavaScript, Go, PHP]
-frameworks: [NestJS, Astro, React, Laravel]
+frameworks: [React, Inertia.js, Astro, Laravel]
 ```
 
-- 🔭 Currently building and exploring modern web architectures & microservices.
-- 💡 Interested in scalable backend systems, clean code, and developer tooling.
-- ☕ Coffee-driven and always eager to learn cutting-edge tools.
+- Founder of Xowlsmith, building Merlin, a multitenant commerce ERP running in production
+- 4+ years shipping backend systems, third-party API integrations, and analytics dashboards
+- AI-assisted tooling: customer-facing chatbots, RAG, and automated data migration
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -44,16 +42,14 @@ frameworks: [NestJS, Astro, React, Laravel]
 </p>
 
 <p align="left">
-  <!-- Frameworks & Runtimes -->
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 </p>
 
 <p align="left">
-  <!-- Tools & Environment -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -62,11 +58,10 @@ frameworks: [NestJS, Astro, React, Laravel]
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Arif's GitHub Stats" />
-  <img src="https://github.xowlsmith.com/api/top-langs?username=arifnurulhakim&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://pixel.xowlsmith.com/api/github-stats?username=arifnurulhakim&theme=crt&pixelate_avatar=true" alt="Pixel GitHub Stats" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -79,9 +74,12 @@ frameworks: [NestJS, Astro, React, Laravel]
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="center">
+  <a href="https://xowlsmith.com" target="_blank">
+    <img src="https://img.shields.io/badge/Xowlsmith-000000?style=for-the-badge" alt="Xowlsmith" />
+  </a>
   <a href="https://github.com/arifnurulhakim" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
