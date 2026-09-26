@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=680&height=60&lines=Hi+there%2C+I'm+Arif;Full-Stack+Engineer;Backend+Laravel%2FGo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=680&height=60&lines=Hakim+here!;Full-Stack+Engineer;Backend+Laravel%2FGo" alt="Typing SVG" />
 
   <p align="center">
     <b>Building Merlin, a multitenant commerce ERP, and the studio around it.</b>
