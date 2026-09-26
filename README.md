@@ -61,7 +61,7 @@ frameworks: [React, Inertia.js, Astro, Laravel]
 ### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&theme=tokyonight&hide_border=true" width="60%" alt="Arif's GitHub Stats" />
+  <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&theme=synthwave&hide_border=true" width="60%" alt="Arif's GitHub Stats" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
