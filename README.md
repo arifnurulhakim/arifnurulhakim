@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Arif+Nurul+Hakim+👋;Software+Engineer+%7C+Full-Stack+Dev;Building+robust+web+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Arif+%F0%9F%91%8B;Software+Engineer;Full-Stack+Dev" alt="Typing SVG" />
 
   <p align="center">
     <b>Passionate about crafting clean, scalable, and modern digital experiences.</b>
@@ -65,12 +65,15 @@ frameworks: [NestJS, Astro, React, Laravel]
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github.xowlsmith.com/api?username=arifnurulhakim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Arif's GitHub Stats" />
-  <img src="https://github.xowlsmith.com/api/top-langs?username=arifnurulhakim&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=arifnurulhakim&theme=crt&pixelate_avatar=true" alt="Pixel GitHub Stats" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=arifnurulhakim&theme=tokyonight&hide_border=true" width="99%" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifnurulhakim/arifnurulhakim/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifnurulhakim/arifnurulhakim/output/github-contribution-grid-snake.svg" />
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/arifnurulhakim/arifnurulhakim/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
